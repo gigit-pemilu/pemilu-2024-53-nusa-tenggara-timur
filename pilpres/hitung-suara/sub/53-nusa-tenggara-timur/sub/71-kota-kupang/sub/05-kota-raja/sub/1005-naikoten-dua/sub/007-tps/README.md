@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 95
+    bar [51, 95, 27]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 51
+    "2" : 95
+    "3" : 27
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 51    | [51][p-1]   | 29,48      |
+| 2   | PRABOWO GIBRAN | 95    | [95][p-2]   | 54,91      |
+| 3   | GANJAR MAHFUD  | 27    | [27][p-3]   | 15,61      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/53-nusa-tenggara-timur/sub/71-kota-kupang/sub/05-kota-raja/sub/1005-naikoten-dua/sub/007-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/53-nusa-tenggara-timur/sub/71-kota-kupang/sub/05-kota-raja/sub/1005-naikoten-dua/sub/007-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/53-nusa-tenggara-timur/sub/71-kota-kupang/sub/05-kota-raja/sub/1005-naikoten-dua/sub/007-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/1fb0/pemilu/ppwp/53/71/05/10/05/5371051005007-20240215-052909--23a709f7-2521-4200-b8a0-0dce7f3abbed.jpg
+
+https://sirekap-obj-formc.kpu.go.id/1fb0/pemilu/ppwp/53/71/05/10/05/5371051005007-20240215-053006--de14fb9a-c6a4-44fc-960c-d2f0546f0f66.jpg
+
+https://sirekap-obj-formc.kpu.go.id/1fb0/pemilu/ppwp/53/71/05/10/05/5371051005007-20240215-053108--5f99c6f1-a5fb-4c1d-b3e9-a81a4c3a1904.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-16 00:00:26 |
+
+
+
