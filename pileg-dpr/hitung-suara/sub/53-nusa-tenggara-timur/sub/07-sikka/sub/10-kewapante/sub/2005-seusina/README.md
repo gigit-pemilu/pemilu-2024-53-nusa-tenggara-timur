@@ -1,0 +1,10 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-53-nusa-tenggara-timur/tree/main/pileg-dpr/hitung-suara/sub/53-nusa-tenggara-timur/sub/07-sikka/sub/10-kewapante/sub/2005-seusina/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-53-nusa-tenggara-timur/tree/main/pileg-dpr/hitung-suara/sub/53-nusa-tenggara-timur/sub/07-sikka/sub/10-kewapante/sub/2005-seusina/sub/002-tps)
+ | 
+[TPS 003](https://github.com/gigit-pemilu/pemilu-2024-53-nusa-tenggara-timur/tree/main/pileg-dpr/hitung-suara/sub/53-nusa-tenggara-timur/sub/07-sikka/sub/10-kewapante/sub/2005-seusina/sub/003-tps)
+

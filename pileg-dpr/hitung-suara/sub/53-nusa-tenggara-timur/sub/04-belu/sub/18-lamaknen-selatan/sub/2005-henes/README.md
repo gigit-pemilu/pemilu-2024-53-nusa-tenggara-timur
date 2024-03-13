@@ -1,0 +1,8 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-53-nusa-tenggara-timur/tree/main/pileg-dpr/hitung-suara/sub/53-nusa-tenggara-timur/sub/04-belu/sub/18-lamaknen-selatan/sub/2005-henes/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-53-nusa-tenggara-timur/tree/main/pileg-dpr/hitung-suara/sub/53-nusa-tenggara-timur/sub/04-belu/sub/18-lamaknen-selatan/sub/2005-henes/sub/002-tps)
+
