@@ -9,7 +9,7 @@ https://sirekap-obj-formc.kpu.go.id/dbdd/pemilu/ppwp/53/16/01/10/11/531601101100
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-18 07:30:00 |
+| Time Stamp | 2024-03-19 08:00:00 |
 
 
 
